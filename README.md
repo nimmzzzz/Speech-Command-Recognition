@@ -13,9 +13,13 @@ A simple speech recognition system that detects predefined voice commands using 
 - Supports basic command recognition
 
 ## 📌 Tech Stack
-- Python  
-- Hidden Markov Models (HMM)  
-- Librosa, NumPy, SciPy
-
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn (RandomForestRegressor)
+- math
+  
 ## 📌 Status
 Completed as part of academic coursework in speech processing.
