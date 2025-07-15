@@ -14,12 +14,8 @@ A simple speech recognition system that detects predefined voice commands using 
 
 ## 📌 Tech Stack
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn (RandomForestRegressor)
-- math
-  
+- SpeechRecognition
+- pyaudio
+    
 ## 📌 Status
 Completed as part of academic coursework in speech processing.
